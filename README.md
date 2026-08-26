@@ -50,7 +50,7 @@ My work connects **text mining**, **LLM-based multi-agent systems**, **AI evalua
 | [**XAI-Based UI Complexity Diagnostics with AndroidControl**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/05-xai-shopping-ui-complexity) | Combines interpretable structural models and image-based prediction to translate UI complexity into design insights | XAI, UI Analytics, Interpretable ML |
 
 <p align="right">
-  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">View all 8 projects →</a>
+  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">View all 5 projects →</a>
 </p>
 ---
 
