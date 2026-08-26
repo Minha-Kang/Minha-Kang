@@ -76,15 +76,6 @@ My work connects **text mining**, **LLM-based multi-agent systems**, **AI evalua
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minha-Kang&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Minha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minha-Kang&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Minha's top languages" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="Footer" />
 </p>
