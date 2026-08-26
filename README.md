@@ -45,10 +45,9 @@ My work connects **text mining**, **LLM-based multi-agent systems**, **AI evalua
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [**Hotel Review Agentic AI**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/01-hotel-review-agentic-ai) | Six-stage workflow connecting review evidence, rating impact, and operational recommendations, with structured logs and evaluation records | LLM Agents, Text Mining, Evaluation |
-| [**Who & When Failure Attribution**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/02-multi-agent-failure-attribution) | Benchmark analysis separating the responsible agent from the decisive failure step across 184 tasks | Agent Evaluation, Reliability |
-| [**Agent Trajectory Validation**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/03-agent-trajectory-validation) | Step-level execution summaries and human-review templates for tracing agent behavior | Audit Logs, Human Evaluation |
-| [**AndroidControl UI Analysis**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/04-androidcontrol-ui-readability) | UI readability research combining data cleaning, action distributions, and behavioral entropy | UI Analytics, Agent Behavior |
+| [**LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/01-hotel-review-agentic-ai) | Transforms hotel reviews into evidence-grounded service priorities, rating-impact analysis, and traceable improvement actions | LLM Agents, Text Mining, Decision Support |
+| [**Multi-Agent Failure Attribution & Trajectory Quality**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/02-multi-agent-failure-attribution) | Separates the failure-responsible agent from the decisive error step and extends evaluation to condition loss and weak success | Agent Evaluation, Reliability |
+| [**XAI-Based UI Complexity Diagnostics with AndroidControl**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/05-xai-shopping-ui-complexity) | Combines interpretable structural models and image-based prediction to translate UI complexity into design insights | XAI, UI Analytics, Interpretable ML |
 
 <p align="right">
   <a href="https://github.com/Minha-Kang/minha-ai-portfolio">View all 8 projects →</a>
