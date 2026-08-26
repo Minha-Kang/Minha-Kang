@@ -42,7 +42,6 @@ My work connects **text mining**, **LLM-based multi-agent systems**, **AI evalua
 | **Hotel Review Multi-Agent System** | A multi-agent pipeline that analyzes service features, customer journeys, sentiment, evidence, rating impact, and improvement recommendations from hotel reviews | LLM Agents, Text Mining, Evaluation |
 | **Who & When Failure Attribution** | An evaluation framework for identifying which agent caused a failure and when it occurred in an interaction trajectory | Agent Evaluation, Reliability |
 | **AndroidControl UI Analysis** | Analysis of mobile UI complexity and agent interaction trajectories for diagnosing control difficulty and failure patterns | UI Analytics, Agent Behavior |
-| **Human Activity Recognition** | Classification of six human activities using the UCI HAR dataset and machine-learning models | Machine Learning, Classification |
 
 ---
 
