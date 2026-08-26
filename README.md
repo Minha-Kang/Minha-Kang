@@ -8,6 +8,12 @@
   <strong>Building AI systems that are useful, reliable, and decision-aware.</strong>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">
+    <img src="https://img.shields.io/badge/View_Full_AI_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full AI Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🧩 About Me
@@ -39,10 +45,14 @@ My work connects **text mining**, **LLM-based multi-agent systems**, **AI evalua
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| **Hotel Review Multi-Agent System** | A multi-agent pipeline that analyzes service features, customer journeys, sentiment, evidence, rating impact, and improvement recommendations from hotel reviews | LLM Agents, Text Mining, Evaluation |
-| **Who & When Failure Attribution** | An evaluation framework for identifying which agent caused a failure and when it occurred in an interaction trajectory | Agent Evaluation, Reliability |
-| **AndroidControl UI Analysis** | Analysis of mobile UI complexity and agent interaction trajectories for diagnosing control difficulty and failure patterns | UI Analytics, Agent Behavior |
+| [**Hotel Review Agentic AI**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/01-hotel-review-agentic-ai) | Six-stage workflow connecting review evidence, rating impact, and operational recommendations, with structured logs and evaluation records | LLM Agents, Text Mining, Evaluation |
+| [**Who & When Failure Attribution**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/02-multi-agent-failure-attribution) | Benchmark analysis separating the responsible agent from the decisive failure step across 184 tasks | Agent Evaluation, Reliability |
+| [**Agent Trajectory Validation**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/03-agent-trajectory-validation) | Step-level execution summaries and human-review templates for tracing agent behavior | Audit Logs, Human Evaluation |
+| [**AndroidControl UI Analysis**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/04-androidcontrol-ui-readability) | UI readability research combining data cleaning, action distributions, and behavioral entropy | UI Analytics, Agent Behavior |
 
+<p align="right">
+  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">View all 8 projects →</a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
