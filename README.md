@@ -1,89 +1,28 @@
-# Hi, I'm Minha Kang 👋
+# Minha Kang
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Text+Mining+%26+Review+Analytics;LLM-based+Multi-Agent+Systems;AI+Evaluation+%26+Reliability;Service+Analytics+%26+Decision+Support" alt="Typing SVG" />
-</p>
+Industrial Engineering student at Ajou University and undergraduate researcher at SI.lab.
 
-<p align="center">
-  <strong>Building AI systems that are useful, reliable, and decision-aware.</strong>
-</p>
+I work on text mining, LLM-based agent systems, AI evaluation, and service analytics. My current research turns hotel reviews into evidence-grounded service priorities and actionable recommendations, with particular attention to validation and error tracing.
 
-<p align="center">
-  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">
-    <img src="https://img.shields.io/badge/View_Full_AI_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Full AI Portfolio" />
-  </a>
-</p>
+## Current work
 
----
+**Hotel Review Agentic AI** · Jun. 2026 - Present  
+2,643 reviews · 350 manually audited Gold reviews · multi-agent extraction · hotel-level IPA/Q2 · 94 targeted actions
 
-## 🧩 About Me
+[Project details and research files](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/01-hotel-review-agentic-ai)
 
-I'm an **Industrial Engineering student at Ajou University** interested in turning unstructured data into traceable insights and practical decisions.
+## Completed projects
 
-My work connects **text mining**, **LLM-based multi-agent systems**, **AI evaluation**, and **service analytics**. I care about not only what an AI system produces, but also whether its reasoning process can be evaluated, reproduced, and improved.
+| Project | Scope |
+|---|---|
+| [Multi-Agent Failure Attribution](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/02-multi-agent-failure-attribution) | Who&When benchmark reproduction and evaluator/repository audit |
+| [AndroidControl UI Behavior & XAI](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/03-androidcontrol-ui-analysis) | Agent behavior data analysis and team XAI study |
+| [Time-Use-Based B2B Service Recommendation](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/04-time-use-b2b-service-recommendation) | MDIS time-use data, Entropy-ROC, QFD and service-module recommendation |
 
-- 🎓 B.S. Candidate in Industrial Engineering, Ajou University
-- 🔭 Building an LLM-based multi-agent pipeline for hotel review analysis
-- 🔍 Studying agent failure attribution, trajectory quality, and reliable evaluation
-- 🧪 Focused on structured outputs, execution logs, audit trails, and validation datasets
-- 🌱 Preparing for graduate research in applied AI and service intelligence
+## Tools and methods
 
----
+Python · pandas · NumPy · scikit-learn · PyTorch · OpenAI API / Agents SDK  
+Text mining · Gold-label evaluation · PCA/factor analysis · SHAP · Entropy-ROC · QFD
 
-## 🔬 Research Interests
+The full portfolio, including reports, presentations and selected validation artifacts, is available in [minha-ai-portfolio](https://github.com/Minha-Kang/minha-ai-portfolio).
 
-- **Text Mining & Review Analytics**
-- **LLM-based Multi-Agent Systems**
-- **AI Evaluation & Reliability**
-- **Agent Failure Attribution**
-- **Service Analytics & Decision Support**
-- **Human–AI Collaboration**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Focus |
-| --- | --- | --- |
-| [**LLM-Based Multi-Agent Service Quality Evaluation from Hotel Reviews**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/01-hotel-review-agentic-ai) | Transforms hotel reviews into evidence-grounded service priorities, rating-impact analysis, and traceable improvement actions | LLM Agents, Text Mining, Decision Support |
-| [**Multi-Agent Failure Attribution & Trajectory Quality**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/02-multi-agent-failure-attribution) | Separates the failure-responsible agent from the decisive error step and extends evaluation to condition loss and weak success | Agent Evaluation, Reliability |
-| [**XAI-Based UI Complexity Diagnostics with AndroidControl**](https://github.com/Minha-Kang/minha-ai-portfolio/tree/main/projects/05-xai-shopping-ui-complexity) | Combines interpretable structural models and image-based prediction to translate UI complexity into design insights | XAI, UI Analytics, Interpretable ML |
-
-<p align="right">
-  <a href="https://github.com/Minha-Kang/minha-ai-portfolio">View all 5 projects →</a>
-</p>
----
-
-## 🛠️ Tech Stack
-
-### AI & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-
-### Research & Development
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📂 What You'll Find Here
-
-- Reproducible research code and experiment documentation
-- LLM-agent workflows with structured outputs and execution traces
-- Text-mining and machine-learning projects
-- Evaluation datasets, analytical reports, and research notes
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="Footer" />
-</p>
